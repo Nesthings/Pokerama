@@ -1,0 +1,112 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\61adQqimkHL.jpg" />
+    <None Remove="Images\instrucciones.JPG" />
+    <None Remove="Images\pokeball.jpg" />
+    <None Remove="Images\rcoket.png" />
+    <None Remove="Images\rwer.JPG" />
+    <None Remove="Images\teamrocket.png" />
+    <None Remove="Images\Tipo fuego\blaziken.gif" />
+    <None Remove="Images\Tipo fuego\charmander.gif" />
+    <None Remove="Images\Tipo fuego\darmanitan.gif" />
+    <None Remove="Images\Tipo fuego\Delphox.gif" />
+    <None Remove="Images\Tipo fuego\emboar.gif" />
+    <None Remove="Images\Tipo fuego\flareon.gif" />
+    <None Remove="Images\Tipo fuego\Fletchinder.gif" />
+    <None Remove="Images\Tipo fuego\heatmor.gif" />
+    <None Remove="Images\Tipo fuego\heatran..gif" />
+    <None Remove="Images\Tipo fuego\infernape.gif" />
+    <None Remove="Images\Tipo fuego\magcargo.gif" />
+    <None Remove="Images\Tipo fuego\magmortar.gif" />
+    <None Remove="Images\Tipo fuego\moltres.gif" />
+    <None Remove="Images\Tipo fuego\ponyta.gif" />
+    <None Remove="Images\Tipo fuego\pyroar.gif" />
+    <None Remove="Images\Tipo fuego\simsear.gif" />
+    <None Remove="Images\Tipo fuego\volcarona.gif" />
+    <None Remove="Images\Tipo-Fuego-30-10-2023.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\61adQqimkHL.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\rcoket.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\rwer.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\teamrocket.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\infernape.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\pokeball.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\blaziken.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\charmander.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\darmanitan.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\Delphox.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\emboar.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\flareon.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\Fletchinder.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\heatmor.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\heatran..gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\magcargo.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\magmortar.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\moltres.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\ponyta.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\pyroar.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\simsear.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo fuego\volcarona.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Tipo-Fuego-30-10-2023.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>
